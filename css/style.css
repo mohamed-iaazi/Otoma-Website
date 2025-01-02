@@ -200,7 +200,7 @@ border-bottom-left-radius: 10px;
 }
 
 .style .style_card{
-  height: 230px;
+  height: fit-content;
   width: 200px;
   background-color: #242632;
   border-radius: 20px;
@@ -233,7 +233,48 @@ border-bottom-left-radius: 10px;
   font-family: "Poppins", serif;
   margin-left: 10px;
 }
-.style button{
+.style .more,.free{
   display: inline;
-  font-size: 13px;
+  font-size: 10px;
+  width: 80px;
+  height: 30px;
+  padding: 10px 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  border-radius: 7px;
 }
+.more {
+  color: white;
+  border: #FFF 1px solid;
+  background-color: transparent;
+}
+.free{
+  background-color: #75E9BF;
+  border: #75E9BF 1px solid;
+  color: white;
+}
+
+.next {
+  padding-top: 30px;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.style_card.zwei .free ,.style_card.drei .free {
+background-color: #FFB281;
+border:solid 1px #FFB281;
+
+}
+
+.style_card.zwei .twitch  {
+  background-color: #35A754;
+  border:solid 1px #35A754;
+  color: #72E3A6;
+  
+  }
+
+  .style_card.drei .twitch{
+    background-color: #3B5999;
+    color: #8BABF0;
+  }
