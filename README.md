@@ -46,7 +46,7 @@ Follow these steps to set up the project locally:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd xd-to-html-css
+   cd Otoma-Website
    ```
 
 3. **Open `index.html` in your browser** or use a live server.
@@ -56,9 +56,13 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 🌐 Live Demo
+## 🌐  Demo
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/03fa2899-d4af-471f-a7d8-93ff5ca6a42f" />
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/36543e4c-7d90-437a-bfb8-801db96478f3" />
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/5e30ac56-09a2-42f8-bbd4-70d9657df27d" />
 
-[Check out the live demo here](https://your-demo-link.com) 🔗
+
+
 
 ---
 
@@ -84,7 +88,7 @@ Contributions are welcome! To contribute:
 
 ## 📧 Contact
 
-- **Name**: Your Name  
+- **Name**: Mohamed Iaazi  
 - **Email**: yourname@example.com  
 - **GitHub**: [yourusername](https://github.com/yourusername)  
 
@@ -92,7 +96,7 @@ Contributions are welcome! To contribute:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is Free to use 
 
 ---
 
