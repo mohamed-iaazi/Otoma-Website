@@ -89,8 +89,8 @@ Contributions are welcome! To contribute:
 ## 📧 Contact
 
 - **Name**: Mohamed Iaazi  
-- **Email**: yourname@example.com  
-- **GitHub**: [yourusername](https://github.com/yourusername)  
+- **Email**: iaazi.mohamed.1998@gmail.com  
+- **GitHub**: [mohamed-iaazi](https://github.com/mohamed-iaazi)  
 
 ---
 
